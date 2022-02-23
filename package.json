@@ -1,10 +1,11 @@
 {
   "name": "valeriovaz",
-  "version": "1.0.2",
+  "version": "1.1.0",
+  "description": "Meet Valerio via `npx valeriovaz`.",
   "bin": {
     "valeriovaz": "index.js"
   },
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "cli-welcome": "^2.2.2"
   }
 }
