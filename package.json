@@ -12,5 +12,13 @@
     "valerio vaz",
     "valerio",
     "vaz"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "vvaz/valeriovaz",
+  "author": {
+    "name": "Valerio Vaz",
+    "email": "mail@valeriovaz.dev",
+    "url": "https://twitter.com/vvaz"
+  }
 }
